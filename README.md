@@ -1,2 +1,4 @@
 # goit-markup-hw-01
-First step in my homework.
+
+first step in my homework.
+start 10.08.23
